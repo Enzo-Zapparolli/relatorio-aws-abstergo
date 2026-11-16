@@ -1,3 +1,5 @@
+> **Estudo educacional com empresa fictícia.** O texto abaixo faz parte da atividade original. As descrições de implementação e benefícios são hipotéticas; não houve implantação ou medição comprovada neste repositório.
+
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 18/05/2026  
